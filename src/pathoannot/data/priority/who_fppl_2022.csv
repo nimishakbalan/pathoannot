@@ -1,0 +1,19 @@
+list,priority,taxon,aliases,taxid,note
+WHO FPPL 2022,critical,Cryptococcus neoformans,,,
+WHO FPPL 2022,critical,Candida auris,Candidozyma auris,,
+WHO FPPL 2022,critical,Aspergillus fumigatus,,,
+WHO FPPL 2022,critical,Candida albicans,,,
+WHO FPPL 2022,high,Nakaseomyces glabratus,Candida glabrata;Nakaseomyces glabrata,,Candida glabrata
+WHO FPPL 2022,high,Histoplasma,,,Histoplasma spp.
+WHO FPPL 2022,high,Mucorales,,4827,order-level entry
+WHO FPPL 2022,high,Fusarium,,,Fusarium spp.
+WHO FPPL 2022,high,Candida tropicalis,,,
+WHO FPPL 2022,high,Candida parapsilosis,,,
+WHO FPPL 2022,medium,Scedosporium,,,Scedosporium spp.
+WHO FPPL 2022,medium,Lomentospora prolificans,,,
+WHO FPPL 2022,medium,Coccidioides,,,Coccidioides spp.
+WHO FPPL 2022,medium,Pichia kudriavzeveii,Candida krusei;Issatchenkia orientalis;Candida kudriavzevii,,Candida krusei
+WHO FPPL 2022,medium,Cryptococcus gattii,Cryptococcus deuterogattii;Cryptococcus bacillisporus,,
+WHO FPPL 2022,medium,Talaromyces marneffei,Penicillium marneffei,,
+WHO FPPL 2022,medium,Pneumocystis jirovecii,,,
+WHO FPPL 2022,medium,Paracoccidioides,,,Paracoccidioides spp.

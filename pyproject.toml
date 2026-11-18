@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pathoannot"
+version = "0.3.0"
+description = "Annotate metagenomic species as pathogen, commensal or environmental using WHO/ICMR priority lists, literature and NCBI evidence, plus DeePaC scores and depth/breadth of coverage"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["pandas", "numpy", "requests"]
+keywords = ["metagenomics", "pathogen", "bracken", "kraken2", "bioinformatics"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+pathoannot = "pathoannot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+
+[tool.setuptools.package-data]
+pathoannot = ["data/priority/*.csv", "data/*.csv"]

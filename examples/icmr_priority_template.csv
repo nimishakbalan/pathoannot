@@ -1,0 +1,2 @@
+list,priority,taxon,aliases,taxid,note
+ICMR priority pathogens (add your own rows),priority,Example organism name,optional synonym;another synonym,,optional note

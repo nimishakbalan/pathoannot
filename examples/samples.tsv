@@ -1,0 +1,2 @@
+sample	bracken	kraken_report	kraken_output	r1	r2	contigs	contig_kraken	host_pct
+PT001	bracken/PT001.bracken	kraken/PT001.kreport	kraken/PT001.kraken	reads/PT001_nohost_R1.fastq.gz	reads/PT001_nohost_R2.fastq.gz	assembly/PT001/final.contigs.fa		92.5

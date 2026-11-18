@@ -1,0 +1,14 @@
+list,priority,taxon,aliases,taxid,note
+WHO BPPL 2024,critical,Acinetobacter baumannii,,,carbapenem-resistant
+WHO BPPL 2024,critical,Enterobacterales,,91347,third-generation cephalosporin- and carbapenem-resistant (order-level entry)
+WHO BPPL 2024,critical,Mycobacterium tuberculosis,,,rifampicin-resistant
+WHO BPPL 2024,high,Salmonella,,,Salmonella Typhi and non-typhoidal Salmonella; fluoroquinolone-resistant
+WHO BPPL 2024,high,Shigella,,,fluoroquinolone-resistant
+WHO BPPL 2024,high,Enterococcus faecium,,,vancomycin-resistant
+WHO BPPL 2024,high,Pseudomonas aeruginosa,,,carbapenem-resistant
+WHO BPPL 2024,high,Neisseria gonorrhoeae,,,third-generation cephalosporin- and/or fluoroquinolone-resistant
+WHO BPPL 2024,high,Staphylococcus aureus,,,methicillin-resistant
+WHO BPPL 2024,medium,Streptococcus pyogenes,,,Group A streptococci; macrolide-resistant
+WHO BPPL 2024,medium,Streptococcus agalactiae,,,Group B streptococci; penicillin-resistant
+WHO BPPL 2024,medium,Streptococcus pneumoniae,,,macrolide-resistant
+WHO BPPL 2024,medium,Haemophilus influenzae,,,ampicillin-resistant
