@@ -129,7 +129,7 @@ the thresholds used, limitations and a sign-off block. Open it in a browser and 
 ## Install
 
 ```bash
-git clone https://github.com/<your-user>/pathoannot.git
+git clone https://github.com/nimishakbalan/pathoannot.git
 cd pathoannot
 pip install .
 ```
